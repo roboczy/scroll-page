@@ -1,0 +1,34 @@
+html{
+  margin: 0;
+  padding: 0;
+}
+
+main{
+  font-family: "Bowlby One SC";
+  font-size: 30px;
+  color:green;
+  background-color: #e5e500;
+}
+
+
+section#first{
+  height: 1000px;
+}
+
+section#second{
+  height: 800px;
+}
+
+section#third{
+  height: 500px;
+}
+
+p{
+  font-size: 25px;
+  color: black;
+}
+
+#trigger1, #trigger2, #trigger3{
+  color: red;
+  font-size: 24px;
+}
